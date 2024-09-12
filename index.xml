@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>mri-to-speech-demo</title>
-    <link>https://y-otn.github.io/mri-to-speech-demo/</link>
-    <description>Recent content on mri-to-speech-demo</description>
+    <title>mri-to-speech-multi-demo</title>
+    <link>https://y-otn.github.io/mri-to-speech-multi-demo/</link>
+    <description>Recent content on mri-to-speech-multi-demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2023 [y-otn](https://github.com/y-otn)</copyright><atom:link href="https://y-otn.github.io/mri-to-speech-demo/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2023 [y-otn](https://github.com/y-otn)</copyright><atom:link href="https://y-otn.github.io/mri-to-speech-multi-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Audio Samples</title>
-      <link>https://y-otn.github.io/mri-to-speech-demo/</link>
+      <link>https://y-otn.github.io/mri-to-speech-multi-demo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://y-otn.github.io/mri-to-speech-demo/</guid>
+      <guid>https://y-otn.github.io/mri-to-speech-multi-demo/</guid>
       <description>Our implementation is available in the repository.
 ATR 503 Sentences rtMRI Database1 Sample Original Predicted F0 trajectory J20 J27 J38 J39 J49 USC-TIMIT MRI Database2 Sample Original Predicted F0 trajectory 18 84 88 104 198 These rtMRI videos were recorded with the support of JSPS KAKENHI Grant Number JP20H01265 (Kikuo Maekawa). Redistribution of audio and video files is prohibited.&amp;#160;&amp;#x21a9;&amp;#xfe0e;
 S. Narayanan, A. Toutios, V. Ramanarayanan, A. Lammert, J. Kim, S. Lee, K.</description>
