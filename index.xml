@@ -14,7 +14,7 @@
       
       <guid>https://y-otn.github.io/mri-to-speech-multi-demo/</guid>
       <description>Our implementation is available in the repository.
-ATR 503 Sentences rtMRI Database1 Sample Original Predicted F0 trajectory J20 J27 J38 J39 J49 These rtMRI videos were recorded with the support of JSPS KAKENHI Grant Number JP20H01265 (Kikuo Maekawa). Redistribution of audio and video files is prohibited.&amp;#160;&amp;#x21a9;&amp;#xfe0e;</description>
+ATR 503 Sentences rtMRI Database1 Speaker M1 Sample Original Predicted F0 trajectory J20 J27 J38 Speaker M2 Sample Original Predicted F0 trajectory J20 J27 J38 Speaker F1 Sample Original Predicted F0 trajectory J20 J27 J38 Speaker F2 Sample Original Predicted F0 trajectory J20 J27 J38 These rtMRI videos were recorded with the support of JSPS KAKENHI Grant Number JP20H01265 (Kikuo Maekawa). Redistribution of audio and video files is prohibited.</description>
     </item>
     
   </channel>
